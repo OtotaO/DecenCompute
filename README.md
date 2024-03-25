@@ -68,5 +68,3 @@ Distributed Compute Program is licensed under the [MIT License](LICENSE).
 
 This project was inspired by fomoats ( Fear of moats )
 ```
-
-Feel free to replace `[insert inspiration here]` with any specific acknowledgements or inspirations for your project.
